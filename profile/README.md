@@ -10,7 +10,7 @@ composer create-project tomatophp/tomato
 
 ## Support
 
-you can join our discord server to get support [TomatoPHP](https://discord.gg/Xqmt35Uh)
+you can join our discord server to get support [TomatoPHP](https://discord.com/invite/VZc8nBJ3ZU)
 
 ## Docs
 
