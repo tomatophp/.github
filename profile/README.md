@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/tomatophp/tomato/blob/master/art/cover.png)
+![Screenshot](https://github.com/tomatophp/tomato/blob/master/art/v1.2-dashboard.png)
 
 🍅 TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.
 
