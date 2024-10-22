@@ -6,7 +6,7 @@ you can join our discord server to get support [TomatoPHP](https://discord.gg/Xq
 
 ### Docs
 
-you can check docs of all packages on [Docs](https://docs.tomatophp.com)
+you can check docs of all packages on [Docs](https://tomatophp.com/en/open-source)
 
 ### Credits
 
