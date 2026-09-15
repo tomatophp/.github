@@ -78,6 +78,9 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-withdrawals](https://github.com/tomatophp/filament-withdrawals) | 5.0.1 | Withdrawal methods and requests |
 | [filament-invoices](https://github.com/tomatophp/filament-invoices) | 5.0.0 | Invoices with items, payments and PDF |
 | [filament-subscriptions](https://github.com/tomatophp/filament-subscriptions) | 5.0.0 | Plans, features and subscriptions with a billing page |
+| [filament-payments](https://github.com/tomatophp/filament-payments) | 5.0.0 | Payment gateways and a checkout page (Stripe, PayPal, Paymob and more) |
+| [filament-ecommerce](https://github.com/tomatophp/filament-ecommerce) | 5.0.0 | Products, orders, carts and coupons |
+| [filament-notes](https://github.com/tomatophp/filament-notes) | 5.0.1 | Sticky notes for your panel users |
 
 The other plugins still have their Filament 3 and 4 releases on Packagist and are being upgraded one by one.
 
