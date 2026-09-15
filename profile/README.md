@@ -34,6 +34,9 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-helpers](https://github.com/tomatophp/filament-helpers) | 5.0.0 | Generators for forms, tables, actions and filters |
 | [filament-pwa](https://github.com/tomatophp/filament-pwa) | 5.0.0 | Turn your panel into an installable PWA |
 | [filament-seo](https://github.com/tomatophp/filament-seo) | 5.0.0 | SEO tags, analytics and Google indexing |
+| [filament-logger](https://github.com/tomatophp/filament-logger) | 5.0.0 | Log activities and requests in your panel |
+| [filament-social](https://github.com/tomatophp/filament-social) | 5.0.0 | Social login and share actions |
+| [filament-tenancy](https://github.com/tomatophp/filament-tenancy) | 5.0.0 | Multi-database tenancy with a tenants resource |
 
 **Content**
 
