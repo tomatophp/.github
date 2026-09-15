@@ -73,7 +73,7 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-discord](https://github.com/tomatophp/filament-discord) | 5.0.0 | Send notifications and errors to Discord webhooks |
 | [filament-twilio](https://github.com/tomatophp/filament-twilio) | 5.0.0 | Send WhatsApp notifications with Twilio |
 | [filament-issues](https://github.com/tomatophp/filament-issues) | 5.0.0 | Show GitHub issues of your repos in your panel |
-| [filament-form-builder](https://github.com/tomatophp/filament-form-builder) | 5.0.0 | Build forms and collect requests from the panel |
+| [filament-form-builder](https://github.com/tomatophp/filament-form-builder) | 5.0.1 | Build forms and collect requests from the panel |
 | [filament-wallet](https://github.com/tomatophp/filament-wallet) | 5.0.0 | Balances and wallets for your users |
 | [filament-withdrawals](https://github.com/tomatophp/filament-withdrawals) | 5.0.1 | Withdrawal methods and requests |
 | [filament-invoices](https://github.com/tomatophp/filament-invoices) | 5.0.0 | Invoices with items, payments and PDF |
