@@ -1,14 +1,96 @@
-Hello, Laravel and PHP enthusiasts!
+![TomatoPHP](arts/tomatophp.jpg)
 
-### Support
+# TomatoPHP
 
-you can join our discord server to get support [TomatoPHP](https://discord.gg/vKV9U7gD3c)
+Open-source plugins for [FilamentPHP](https://filamentphp.com) and Laravel: users, accounts, CMS, translations, alerts, wallets and more.
+Every plugin is a plain Composer package you register on your panel, MIT licensed and maintained in the open.
 
-### Docs
+- **Website:** [tomatophp.com](https://tomatophp.com)
+- **Live demo:** [demo.tomatophp.com](https://demo.tomatophp.com): sign in with `demo@tomatophp.com` / `demo1234` (prefilled; data resets every hour)
+- **Docs:** [tomatophp.com/en/docs](https://tomatophp.com/en/docs)
+- **All plugins:** [tomatophp.com/en/plugins](https://tomatophp.com/en/plugins)
+- **Support:** [Discord](https://discord.gg/vKV9U7gD3c)
 
-you can check docs of all packages on [Docs](https://tomatophp.com/en/open-source)
+## Filament 5
 
-### Credits
+The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are released:
+
+**Panel and users**
+
+| Package | Version | |
+|---|---|---|
+| [filament-tomatophp-theme](https://github.com/tomatophp/filament-tomatophp-theme) | 5.0.1 | The TomatoPHP brand for your panel: mark, colors and screen-line styling |
+| [filament-users](https://github.com/tomatophp/filament-users) | 5.0.3 | User resource with roles, teams, impersonation and password management |
+| [filament-accounts](https://github.com/tomatophp/filament-accounts) | 5.0.0 | Multi accounts in one table with multi auth |
+| [filament-saas-panel](https://github.com/tomatophp/filament-saas-panel) | 5.0.0 | Ready-to-use SaaS panel with teams, profile and API tokens |
+| [filament-settings-hub](https://github.com/tomatophp/filament-settings-hub) | 5.0.1 | Manage your app settings from one hub |
+| [filament-developer-gate](https://github.com/tomatophp/filament-developer-gate) | 5.0.0 | Protect developer-only pages behind a separate password |
+| [filament-types](https://github.com/tomatophp/filament-types) | 5.0.1 | Manage any type in your app from the database |
+| [filament-meta](https://github.com/tomatophp/filament-meta) | 5.0.0 | Pluggable meta for any model |
+| [filament-icons](https://github.com/tomatophp/filament-icons) | 5.0.0 | Icon picker, table column and icons provider |
+| [filament-locations](https://github.com/tomatophp/filament-locations) | 5.0.0 | Countries, cities, areas, languages and currencies |
+
+**Content**
+
+| Package | Version | |
+|---|---|---|
+| [filament-cms](https://github.com/tomatophp/filament-cms) | 5.0.0 | Posts, categories and content for your site |
+| [filament-cms-api](https://github.com/tomatophp/filament-cms-api) | 5.0.0 | Read-only API for published CMS content |
+| [filament-cms-github](https://github.com/tomatophp/filament-cms-github) | 5.0.0 | Import repository READMEs as CMS docs |
+| [filament-menus](https://github.com/tomatophp/filament-menus) | 5.0.0 | Database menus for your panel and site |
+| [filament-media-manager](https://github.com/tomatophp/filament-media-manager) | 5.0.0 | Folders and files on top of Spatie Media Library |
+
+**Translations**
+
+| Package | Version | |
+|---|---|---|
+| [filament-translations](https://github.com/tomatophp/filament-translations) | 5.0.0 | Manage translations in the database with cache |
+| [filament-translations-google](https://github.com/tomatophp/filament-translations-google) | 5.0.0 | Auto translate with Google Translate |
+| [filament-translations-gpt](https://github.com/tomatophp/filament-translations-gpt) | 5.0.0 | Auto translate with OpenAI |
+| [filament-translation-component](https://github.com/tomatophp/filament-translation-component) | 5.0.0 | Key/value translation field for every locale |
+| [filament-language-switcher](https://github.com/tomatophp/filament-language-switcher) | 5.0.0 | Per-user language switcher |
+
+**Notifications and money**
+
+| Package | Version | |
+|---|---|---|
+| [filament-alerts](https://github.com/tomatophp/filament-alerts) | 5.0.0 | Notification templates sent over many channels |
+| [filament-discord-driver](https://github.com/tomatophp/filament-discord-driver) | 5.0.0 | Discord webhook channel for alerts |
+| [filament-fcm-driver](https://github.com/tomatophp/filament-fcm-driver) | 5.0.0 | Firebase Cloud Messaging channel for alerts |
+| [filament-wallet](https://github.com/tomatophp/filament-wallet) | 5.0.0 | Balances and wallets for your users |
+| [filament-withdrawals](https://github.com/tomatophp/filament-withdrawals) | 5.0.1 | Withdrawal methods and requests |
+
+The other plugins still have their Filament 3 and 4 releases on Packagist and are being upgraded one by one.
+
+## For AI assistants
+
+The TomatoPHP MCP server gives your AI assistant the plugin docs, the latest versions and which version fits your Filament and Laravel.
+
+```bash
+claude mcp add --transport http tomatophp https://mcp.tomatophp.com/mcp
+```
+
+```json
+{ "mcpServers": { "tomatophp": { "type": "http", "url": "https://mcp.tomatophp.com/mcp" } } }
+```
+
+More at [mcp.tomatophp.com](https://mcp.tomatophp.com) · source: [tomatophp/mcp](https://github.com/tomatophp/mcp)
+
+## Laravel packages
+
+| Package | |
+|---|---|
+| [console-helpers](https://github.com/tomatophp/console-helpers) | Helpers for your Artisan commands |
+| [laravel-package-generator](https://github.com/tomatophp/laravel-package-generator) | Generate a Laravel package with ease |
+| [laravel-discord-error-tracker](https://github.com/tomatophp/laravel-discord-error-tracker) | Track your errors with a Discord webhook |
+| [laravel-logstash](https://github.com/tomatophp/laravel-logstash) | Elastic Logstash integration |
+| [laravel-agora](https://github.com/tomatophp/laravel-agora) | Agora token generator |
+
+## Contributing
+
+Issues and pull requests are welcome on every repository. Security reports: please use the security policy of the repository instead of a public issue.
+
+## Credits
 
 - [Fady Mondy](https://wa.me/+201207860084)
 - [Abdelmjid](https://wa.me/201091523908)
