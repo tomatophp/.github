@@ -37,6 +37,9 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-logger](https://github.com/tomatophp/filament-logger) | 5.0.0 | Log activities and requests in your panel |
 | [filament-social](https://github.com/tomatophp/filament-social) | 5.0.0 | Social login and share actions |
 | [filament-tenancy](https://github.com/tomatophp/filament-tenancy) | 5.0.0 | Multi-database tenancy with a tenants resource |
+| [filament-docs](https://github.com/tomatophp/filament-docs) | 5.0.0 | Document templates with variables and printing |
+| [filament-artisan](https://github.com/tomatophp/filament-artisan) | 5.0.0 | Run Artisan commands from your panel (keep it behind a gate) |
+| [filament-browser](https://github.com/tomatophp/filament-browser) | 5.0.0 | Browse and edit project files from your panel (keep it behind a gate) |
 
 **Content**
 
