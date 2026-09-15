@@ -29,6 +29,11 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-meta](https://github.com/tomatophp/filament-meta) | 5.0.0 | Pluggable meta for any model |
 | [filament-icons](https://github.com/tomatophp/filament-icons) | 5.0.0 | Icon picker, table column and icons provider |
 | [filament-locations](https://github.com/tomatophp/filament-locations) | 5.0.0 | Countries, cities, areas, languages and currencies |
+| [filament-simple-theme](https://github.com/tomatophp/filament-simple-theme) | 5.0.0 | Sidebar-first layout with the user menu in the sidebar |
+| [filament-api](https://github.com/tomatophp/filament-api) | 5.0.0 | Generate API endpoints from your Filament resources |
+| [filament-helpers](https://github.com/tomatophp/filament-helpers) | 5.0.0 | Generators for forms, tables, actions and filters |
+| [filament-pwa](https://github.com/tomatophp/filament-pwa) | 5.0.0 | Turn your panel into an installable PWA |
+| [filament-seo](https://github.com/tomatophp/filament-seo) | 5.0.0 | SEO tags, analytics and Google indexing |
 
 **Content**
 
@@ -59,6 +64,8 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-fcm-driver](https://github.com/tomatophp/filament-fcm-driver) | 5.0.0 | Firebase Cloud Messaging channel for alerts |
 | [filament-wallet](https://github.com/tomatophp/filament-wallet) | 5.0.0 | Balances and wallets for your users |
 | [filament-withdrawals](https://github.com/tomatophp/filament-withdrawals) | 5.0.1 | Withdrawal methods and requests |
+| [filament-invoices](https://github.com/tomatophp/filament-invoices) | 5.0.0 | Invoices with items, payments and PDF |
+| [filament-subscriptions](https://github.com/tomatophp/filament-subscriptions) | 5.0.0 | Plans, features and subscriptions with a billing page |
 
 The other plugins still have their Filament 3 and 4 releases on Packagist and are being upgraded one by one.
 
