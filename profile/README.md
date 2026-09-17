@@ -40,6 +40,8 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-docs](https://github.com/tomatophp/filament-docs) | 5.0.0 | Document templates with variables and printing |
 | [filament-artisan](https://github.com/tomatophp/filament-artisan) | 5.0.0 | Run Artisan commands from your panel (keep it behind a gate) |
 | [filament-browser](https://github.com/tomatophp/filament-browser) | 5.0.0 | Browse and edit project files from your panel (keep it behind a gate) |
+| [filament-workflows](https://github.com/tomatophp/filament-workflows) | 5.0.0 | Run actions on model events, custom events and webhooks |
+| [filament-accounts-auth](https://github.com/tomatophp/filament-accounts-auth) | 5.0.0 | Login, register and 2FA pages for filament-accounts |
 | [filament-bookmarks-menu](https://github.com/tomatophp/filament-bookmarks-menu) | 5.0.0 | Bookmark folders in your sidebar |
 | [filament-fcm](https://github.com/tomatophp/filament-fcm) | 5.0.0 | Firebase push notifications for your panel users |
 
@@ -106,8 +108,8 @@ More at [mcp.tomatophp.com](https://mcp.tomatophp.com) · source: [tomatophp/mcp
 |---|---|
 | [console-helpers](https://github.com/tomatophp/console-helpers) | Helpers for your Artisan commands |
 | [laravel-package-generator](https://github.com/tomatophp/laravel-package-generator) | Generate a Laravel package with ease |
-| [laravel-discord-error-tracker](https://github.com/tomatophp/laravel-discord-error-tracker) | Track your errors with a Discord webhook |
-| [laravel-logstash](https://github.com/tomatophp/laravel-logstash) | Elastic Logstash integration |
+| [laravel-discord-error-tracker](https://github.com/tomatophp/laravel-discord-error-tracker) | Track your errors with a Discord webhook (2.x for Laravel 12/13) |
+| [laravel-logstash](https://github.com/tomatophp/laravel-logstash) | Elastic Logstash integration (2.x for Laravel 12/13) |
 | [laravel-agora](https://github.com/tomatophp/laravel-agora) | Agora token generator |
 
 ## Contributing
