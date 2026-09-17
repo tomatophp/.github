@@ -40,6 +40,7 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-docs](https://github.com/tomatophp/filament-docs) | 5.0.0 | Document templates with variables and printing |
 | [filament-artisan](https://github.com/tomatophp/filament-artisan) | 5.0.0 | Run Artisan commands from your panel (keep it behind a gate) |
 | [filament-browser](https://github.com/tomatophp/filament-browser) | 5.0.0 | Browse and edit project files from your panel (keep it behind a gate) |
+| [filament-blog](https://github.com/tomatophp/filament-blog) | 5.0.0 | Blog, portfolio and services website with a user panel |
 | [filament-workflows](https://github.com/tomatophp/filament-workflows) | 5.0.0 | Run actions on model events, custom events and webhooks |
 | [filament-accounts-auth](https://github.com/tomatophp/filament-accounts-auth) | 5.0.0 | Login, register and 2FA pages for filament-accounts |
 | [filament-bookmarks-menu](https://github.com/tomatophp/filament-bookmarks-menu) | 5.0.0 | Bookmark folders in your sidebar |
