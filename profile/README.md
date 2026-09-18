@@ -73,6 +73,10 @@ The plugins are moving to **Filament 5** on **Laravel 12 and 13**. These are rel
 | [filament-alerts](https://github.com/tomatophp/filament-alerts) | 5.0.0 | Notification templates sent over many channels |
 | [filament-discord-driver](https://github.com/tomatophp/filament-discord-driver) | 5.0.0 | Discord webhook channel for alerts |
 | [filament-fcm-driver](https://github.com/tomatophp/filament-fcm-driver) | 5.0.0 | Firebase Cloud Messaging channel for alerts |
+| [filament-slack-driver](https://github.com/tomatophp/filament-slack-driver) | 5.1.0 | Slack channel for alerts (webhook or bot token) |
+| [filament-sms-misr-driver](https://github.com/tomatophp/filament-sms-misr-driver) | 5.1.0 | SMS channel for alerts through SMS Misr |
+| [filament-twilio-driver](https://github.com/tomatophp/filament-twilio-driver) | 5.1.0 | Twilio SMS and WhatsApp channels for alerts |
+| [filament-reverb-driver](https://github.com/tomatophp/filament-reverb-driver) | 5.1.0 | Live in-panel alerts over websockets with Laravel Reverb |
 | [filament-discord](https://github.com/tomatophp/filament-discord) | 5.0.0 | Send notifications and errors to Discord webhooks |
 | [filament-twilio](https://github.com/tomatophp/filament-twilio) | 5.0.0 | Send WhatsApp notifications with Twilio |
 | [filament-issues](https://github.com/tomatophp/filament-issues) | 5.0.0 | Show GitHub issues of your repos in your panel |
