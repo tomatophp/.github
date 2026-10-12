@@ -117,11 +117,16 @@ More at [mcp.tomatophp.com](https://mcp.tomatophp.com) · source: [tomatophp/mcp
 | [laravel-logstash](https://github.com/tomatophp/laravel-logstash) | Elastic Logstash integration (2.x for Laravel 12/13) |
 | [laravel-agora](https://github.com/tomatophp/laravel-agora) | Agora token generator |
 
+## More from the same maintainer
+
+- [Laravilt](https://laravilt.com): an open-source Laravel admin panel built with Vue 3 and Inertia.js
+- [ToGO](https://to-go.dev): an API-first Go + React full-stack framework
+
 ## Contributing
 
 Issues and pull requests are welcome on every repository. Security reports: please use the security policy of the repository instead of a public issue.
 
 ## Credits
 
-- [Fady Mondy](https://wa.me/+201207860084)
+- [Fady Mondy](https://fadymondy.com)
 - [Abdelmjid](https://wa.me/201091523908)
