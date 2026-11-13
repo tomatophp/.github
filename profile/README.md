@@ -9,7 +9,7 @@ Every plugin is a plain Composer package you register on your panel, MIT license
 - **Live demo:** [demo.tomatophp.com](https://demo.tomatophp.com): sign in with `demo@tomatophp.com` / `demo1234` (prefilled; data resets every hour)
 - **Docs:** [tomatophp.com/en/docs](https://tomatophp.com/en/docs)
 - **All plugins:** [tomatophp.com/en/plugins](https://tomatophp.com/en/plugins)
-- **Support:** [Discord](https://discord.gg/vKV9U7gD3c)
+- **Support:** [Discord](https://discord.gg/ggSfrWSA87)
 
 ## Filament 5
 
